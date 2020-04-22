@@ -6,12 +6,12 @@ A cloud based remote android managment suite, powered by NodeJS
 
 
 ## Features
-- GPS Logging
-- Microphone Recording
+- techmanoj62 GPS Logging
+-techmanoj62 Microphone Recording
 -  techmanoj62 View Contacts
-- SMS Logs
-- Send SMS
-- Call Logs
+-tectechmanoj62 SMSS Logs
+-techmanoj62 Send SMS
+- techmanoj62 Call Logs
 - View Installed Apps
 - View Stub Permissions
 - Live Clipboard Logging
@@ -74,7 +74,7 @@ It's recommended to run DroidSpy behind a reverse proxy such as [NGINX](https://
 DroidSpy is built for both Educational and Internal use ONLY.</b>
 
 <br>
-<p align="center">Made with ❤️ By <a href="">techmanoj62</a></p>https://techmanoj62.blogspot.com/?m=1
+<p align="center">Made with 💙Manoj Chaudhari By <a href="">techmanoj62</a></p>https://techmanoj62.blogspot.com/?m=1
 
 ## Credits
 
