@@ -27,8 +27,8 @@ A cloud based remote android managment suite, powered by NodeJS
     - See [installation](#Installation) for OS specifics
  - NodeJs 
  - A Server
-## Installation ON Heroku [Click Here](https://github.com/MKmk123github/techmanoj62README.md)
-
+## Installation ON Heroku [Click Here]  
+https://github.com/Linuxndroid/DroidSpy
 ## Installation ON VPS & PC
    Video Tutorial For VPS And PC [Click Here](https://youtu.be/ZpAQGTdGzE8)
 1. Install JRE 8 
